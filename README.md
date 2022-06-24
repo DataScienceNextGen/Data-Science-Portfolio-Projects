@@ -1,2 +1,2 @@
-# Data-Science-Portfolio-Projects
- Data Science Project Portfolio
+# data-science-portfolio
+ Portfolio of Data Science Projects completed by myself.
