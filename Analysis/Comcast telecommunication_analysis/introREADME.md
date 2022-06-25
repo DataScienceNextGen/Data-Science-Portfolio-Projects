@@ -56,21 +56,11 @@ It will help to pin down what is wrong with Comcast's customer service.
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 :
 
 •Programming Language : Python
-
 •Algorithm : Random Forest Classifier
-
 •IDE : Jupyter Notebook
-
-[Explanation](https://lnkd.in/gNmF3yd)
 
 **Author:**
 
-Tulsee Bisen
-
-**Contributors:**
-
-Deep Patel
-
-Shivang Kharakwal
+Kaushik Prasad Dey
 
 
