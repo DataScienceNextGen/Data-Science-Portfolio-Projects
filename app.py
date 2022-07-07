@@ -17,6 +17,7 @@ langtranslator = LanguageTranslatorV3(
 langtranslator.set_service_url(url)
 
 st.title("Language-Translator Demo Application")
+st.subheader("small demo by kaushik")
 
 # setting up the dropdown list of the languages
 
